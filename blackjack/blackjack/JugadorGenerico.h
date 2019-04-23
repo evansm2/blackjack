@@ -1,5 +1,5 @@
 // jugadorgenerico.h
-// Declaración de la clase abstracta JugadorGenerico
+// NUEVA DECLARQACION DE TEXTO abstracta JugadorGenerico
 
 #ifndef JUGADORGENERICO_H
 #define JUGADORGENERICO_H
